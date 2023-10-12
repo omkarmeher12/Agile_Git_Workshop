@@ -1,0 +1,8 @@
+hii this is kiwi
+<<<<<<< Updated upstream
+i love squashing kiwis 
+help me gather more kiwis to squash
+=======
+i love squashing kiwis
+help me gather more kiwis
+>>>>>>> Stashed changes
